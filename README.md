@@ -1,7 +1,7 @@
-# My-Stories
-My Stories written in HTML5. All Stories are 100% unofficial 
+# Stories
+Stories written in HTML5. All Stories are 100% unofficial 
 
-The stories are written in my notebook before I type them up to the HTML file, so expect a lot of time between commits.
+Stories may written in notebooks before they are typed up to the HTML file, so expect a lot of time between commits.
 
 You can visit this by the site which is <a href="https://happpydust.github.io/My-Stories/">right here</a>
 
